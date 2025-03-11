@@ -1,0 +1,2 @@
+tweet,output,timestamp
+,"{""label"": ""Neutral"", ""confidences"": [{""label"": ""Neutral"", ""confidence"": 0.9998199343681335}, {""label"": ""Negative"", ""confidence"": 0.00015096900460775942}, {""label"": ""Positive"", ""confidence"": 2.9177608666941524e-05}]}",2025-03-11 20:36:11.531239
