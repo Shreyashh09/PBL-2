@@ -1,48 +1,4 @@
-Hugging Face's logo
-Hugging Face
-Models
-Datasets
-Spaces
-Posts
-Docs
-Enterprise
-Pricing
 
-
-
-Spaces:
-
-Udayraj27
-/
-CovidSenti
-
-
-like
-0
-
-App
-Files
-Community
-Settings
-CovidSenti
-/
-app.py
-
-Udayraj27's picture
-Udayraj27
-Update app.py
-104a481
-verified
-3 minutes ago
-raw
-
-Copy download link
-history
-blame
-edit
-delete
-
-7.37 kB
 import torch
 import torch.nn as nn
 from torch.utils.data import Dataset
